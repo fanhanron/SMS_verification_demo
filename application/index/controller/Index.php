@@ -27,13 +27,13 @@ class Index extends Controller
 			
 			$setPhoneNumbers = $data['phone'];				//获取手机号码  必填
 			
-			$accessKeyId = "*************"; // AccessKeyId  必填
+			$accessKeyId = "LTAIUBouqJGAUw6i"; // AccessKeyId  必填
 			
-			$accessKeySecret = "*************"; // AccessKeySecret  必填
+			$accessKeySecret = "CPjzSZcqgMua0L7bKykaOvhZvg1TVB"; // AccessKeySecret  必填
 			
-			$setSignName = "********";    //设置签名名称  必填
+			$setSignName = "lindaniao";    //设置签名名称  必填
 			
-			$setTemplateCode = "SMS_00000001";		//设置模板CODE，  	必填
+			$setTemplateCode = "SMS_148080963";		//设置模板CODE，  	必填
 			
 			$code = rand(10000,99999);	//生成随机验证码
 			
