@@ -27,9 +27,9 @@ class Index extends Controller
 			
 			$setPhoneNumbers = $data['phone'];				//获取手机号码  必填
 			
-			$accessKeyId = "LTAIUBouqJGAUw6i"; // AccessKeyId  必填
+			$accessKeyId = "这里输入你的AccessKeyId"; // AccessKeyId  必填
 			
-			$accessKeySecret = "CPjzSZcqgMua0L7bKykaOvhZvg1TVB"; // AccessKeySecret  必填
+			$accessKeySecret = "这里输入你的AccesskeySecret"; // AccessKeySecret  必填
 			
 			$setSignName = "lindaniao";    //设置签名名称  必填
 			
